@@ -34,5 +34,5 @@ Job Portal is a web application designed to help job seekers find their dream jo
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/BhaveshBishnoi/Job-Posting-Website-PHP.git
+   [git clone https://github.com/BhaveshBishnoi/Job-Posting-Website-PHP.git](https://github.com/BhaveshBishnoi/Job-posting-website-php.git)
    cd Job-Posting-Website-PHP
